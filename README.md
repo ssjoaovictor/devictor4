@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente exerço a função de balconista de farmácia.
 - 🌱 Hoje, minha linha de estudos está resumida em HTML, CSS, JAVASCRIPT e PHP.
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/devictor4">
