@@ -1,7 +1,8 @@
 ### Olá! Me chamo João Victor 😁
 
-- 🔭 Atualmente exerço a função de balconista de farmácia.
-- 🌱 Hoje, minha linha de estudos está resumida em HTML, CSS, JAVASCRIPT e PHP.
+- 💻 Estudante Fullstack através do projeto Recode PRO 2021
+
+
 
 <div>
   <a href="https://github.com/devictor4">
@@ -14,7 +15,8 @@
   <img align="center" alt="devictor4-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="devictor4-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="devictor4-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="devictor4-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="devictor4-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="devictor4-SPRING" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 </div>
   
   ##
